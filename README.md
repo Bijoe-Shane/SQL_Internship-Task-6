@@ -1,9 +1,11 @@
 SQL Internship – Task 6: Subqueries & Nested Queries
 
 📌 Objective
+
 This project demonstrates the use of different types of SQL subqueries (scalar, correlated, derived table, and multi-level) using a School / Student Management System database containing Students, Teachers, Classes, and Enrollments.
 
 🛠️ Tools & Technologies
+
 MySQL 8.x – Database Management System
 
 MySQL Workbench – Database design & query execution
@@ -53,6 +55,7 @@ classes → enrollments: One class can have many students.
 students → enrollments: One student can enroll in many classes (many-to-many via enrollments).
 
 📊 Subquery Types Implemented
+
 Scalar Subquery in SELECT – Total classes per student
 
 Subquery in WHERE with IN – Students in a specific class
@@ -68,6 +71,7 @@ Multi-level Subquery – Teacher of the largest class
 Subquery in SELECT with AVG – Compare class size to average
 
 📌 Deliverables
+
 SQL script for creating and populating tables
 
 SQL script for subquery examples (Task 6)
@@ -77,4 +81,5 @@ ER Diagram of the database
 Query outputs
 
 📌 Summary
+
 Learned to use different SQL subqueries (scalar, correlated, derived, and multi-level) to get related data from multiple tables. Practiced making relationships, writing subqueries, and understanding their uses in a School Management System.
