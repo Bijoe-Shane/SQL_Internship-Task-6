@@ -1,4 +1,5 @@
 SQL Internship – Task 6: Subqueries & Nested Queries
+
 📌 Objective
 This project demonstrates the use of different types of SQL subqueries (scalar, correlated, derived table, and multi-level) using a School / Student Management System database containing Students, Teachers, Classes, and Enrollments.
 
